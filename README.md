@@ -1,8 +1,7 @@
 # Airbnb-Data-Analysis
-Exploratory Data Analysis (EDA) on Airbnb listing dataset to identify pricing patterns, listing distribution, and availability trends using Python.
 
 ## Project Overview
-This project analyzes Airbnb listing data to understand price distribution, location trends, and availability.
+Exploratory Data Analysis (EDA) on Airbnb listing dataset to identify pricing patterns, listing distribution, and availability trends using Python.
 
 ## Tools Used
 - Python
